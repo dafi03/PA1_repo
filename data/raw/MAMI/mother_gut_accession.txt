@@ -1,0 +1,1250 @@
+Run,Study,Category,Sample type,Sequencing strategy,Maternal age,Sampling days (since birth),Gestational status,Gestational age (weeks),Sex,Country,City,Mode of delivery
+SRR3746621,ChuDM_2017,mother,stool,16S,30,0,term,39.14,female,USA,Houston,CS
+SRR3746622,ChuDM_2017,mother,stool,16S,30,0,term,40.29,female,USA,Houston,vaginal
+SRR3746623,ChuDM_2017,mother,stool,16S,30,0,term,40.29,female,USA,Houston,vaginal
+SRR3746624,ChuDM_2017,mother,stool,16S,25,0,term,37.43,female,USA,Houston,vaginal
+SRR3746625,ChuDM_2017,mother,stool,16S,25,0,term,37.43,female,USA,Houston,vaginal
+SRR3746627,ChuDM_2017,mother,stool,16S,36,42,term,39.43,female,USA,Houston,CS
+SRR3746629,ChuDM_2017,mother,stool,16S,33,42,term,39.14,female,USA,Houston,vaginal
+SRR3746630,ChuDM_2017,mother,stool,16S,33,42,term,39.14,female,USA,Houston,vaginal
+SRR3746631,ChuDM_2017,mother,stool,16S,27,0,term,38.14,female,USA,Houston,vaginal
+SRR3746632,ChuDM_2017,mother,stool,16S,26,0,term,37,female,USA,Houston,vaginal
+SRR3746633,ChuDM_2017,mother,stool,16S,26,0,term,37,female,USA,Houston,vaginal
+SRR3746634,ChuDM_2017,mother,stool,16S,29,42,term,41.43,female,USA,Houston,vaginal
+SRR3746635,ChuDM_2017,mother,stool,16S,24,0,term,37.29,female,USA,Houston,vaginal
+SRR3746636,ChuDM_2017,mother,stool,16S,24,42,term,37.29,female,USA,Houston,vaginal
+SRR3746638,ChuDM_2017,mother,stool,16S,24,42,term,37.29,female,USA,Houston,vaginal
+SRR3746639,ChuDM_2017,mother,stool,16S,26,42,term,39.43,female,USA,Houston,vaginal
+SRR3746640,ChuDM_2017,mother,stool,16S,32,42,term,39,female,USA,Houston,vaginal
+SRR3746641,ChuDM_2017,mother,stool,16S,30,0,term,38.29,female,USA,Houston,CS
+SRR3746642,ChuDM_2017,mother,stool,16S,30,0,term,39.14,female,USA,Houston,vaginal
+SRR3746643,ChuDM_2017,mother,stool,16S,30,42,term,39.14,female,USA,Houston,vaginal
+SRR3746644,ChuDM_2017,mother,stool,16S,39,42,term,40.43,female,USA,Houston,vaginal
+SRR3746645,ChuDM_2017,mother,stool,16S,27,0,preterm,32.86,female,USA,Houston,vaginal
+SRR3746646,ChuDM_2017,mother,stool,16S,27,42,preterm,32.86,female,USA,Houston,vaginal
+SRR3746649,ChuDM_2017,mother,stool,16S,36,0,term,39.14,female,USA,Houston,vaginal
+SRR3746650,ChuDM_2017,mother,stool,16S,36,42,term,39.14,female,USA,Houston,vaginal
+SRR3746651,ChuDM_2017,mother,stool,16S,28,0,term,39.86,female,USA,Houston,vaginal
+SRR3746652,ChuDM_2017,mother,stool,16S,28,42,term,39.86,female,USA,Houston,vaginal
+SRR3746653,ChuDM_2017,mother,stool,16S,27,42,term,40.29,female,USA,Houston,CS
+SRR3746654,ChuDM_2017,mother,stool,16S,23,0,term,39,female,USA,Houston,CS
+SRR3746655,ChuDM_2017,mother,stool,16S,23,42,term,39,female,USA,Houston,CS
+SRR5533540,ChuDM_2017,mother,stool,16S,26,0,term,38,female,USA,Houston,vaginal
+SRR3746660,ChuDM_2017,mother,stool,16S,40,42,term,39.29,female,USA,Houston,CS
+SRR3746661,ChuDM_2017,mother,stool,16S,38,42,term,38.57,female,USA,Houston,vaginal
+SRR3746662,ChuDM_2017,mother,stool,16S,29,42,term,38.86,female,USA,Houston,vaginal
+SRR3746663,ChuDM_2017,mother,stool,16S,29,42,term,38.86,female,USA,Houston,vaginal
+SRR3746666,ChuDM_2017,mother,stool,16S,31,0,term,39,female,USA,Houston,CS
+SRR3746667,ChuDM_2017,mother,stool,16S,31,42,term,39,female,USA,Houston,CS
+SRR3746668,ChuDM_2017,mother,stool,16S,25,42,term,40,female,USA,Houston,vaginal
+SRR3746669,ChuDM_2017,mother,stool,16S,31,42,term,39.29,female,USA,Houston,vaginal
+SRR3746671,ChuDM_2017,mother,stool,16S,33,0,term,40.71,female,USA,Houston,vaginal
+SRR3746672,ChuDM_2017,mother,stool,16S,36,42,term,39.14,female,USA,Houston,vaginal
+SRR3746673,ChuDM_2017,mother,stool,16S,28,0,term,41.14,female,USA,Houston,CS
+SRR3746674,ChuDM_2017,mother,stool,16S,28,42,term,41.14,female,USA,Houston,CS
+SRR3746675,ChuDM_2017,mother,stool,16S,19,42,preterm,36.57,female,USA,Houston,vaginal
+SRR3746676,ChuDM_2017,mother,stool,16S,36,0,term,38.57,female,USA,Houston,vaginal
+SRR3746677,ChuDM_2017,mother,stool,16S,36,42,term,38.57,female,USA,Houston,vaginal
+SRR3746678,ChuDM_2017,mother,stool,16S,23,0,term,37.14,female,USA,Houston,vaginal
+SRR3746679,ChuDM_2017,mother,stool,16S,23,42,term,37.14,female,USA,Houston,vaginal
+SRR3746680,ChuDM_2017,mother,stool,16S,35,42,term,38.29,female,USA,Houston,vaginal
+SRR3746682,ChuDM_2017,mother,stool,16S,29,0,term,38,female,USA,Houston,vaginal
+SRR3746683,ChuDM_2017,mother,stool,16S,29,42,term,38,female,USA,Houston,vaginal
+SRR3746684,ChuDM_2017,mother,stool,16S,25,42,term,39.29,female,USA,Houston,vaginal
+SRR3746685,ChuDM_2017,mother,stool,16S,19,42,term,38,female,USA,Houston,CS
+SRR3746686,ChuDM_2017,mother,stool,16S,27,42,term,39,female,USA,Houston,vaginal
+SRR3746687,ChuDM_2017,mother,stool,16S,29,0,term,37.29,female,USA,Houston,vaginal
+SRR3746688,ChuDM_2017,mother,stool,16S,29,42,term,37.29,female,USA,Houston,vaginal
+SRR3746689,ChuDM_2017,mother,stool,16S,34,0,term,37.14,female,USA,Houston,vaginal
+SRR3746690,ChuDM_2017,mother,stool,16S,29,42,term,39.14,female,USA,Houston,vaginal
+SRR3746691,ChuDM_2017,mother,stool,16S,31,0,term,40.71,female,USA,Houston,vaginal
+SRR3746693,ChuDM_2017,mother,stool,16S,31,42,term,40.71,female,USA,Houston,vaginal
+SRR3746694,ChuDM_2017,mother,stool,16S,25,0,term,39.29,female,USA,Houston,vaginal
+SRR3746695,ChuDM_2017,mother,stool,16S,25,42,term,39.29,female,USA,Houston,vaginal
+SRR3746696,ChuDM_2017,mother,stool,16S,28,42,term,40,female,USA,Houston,vaginal
+SRR3746697,ChuDM_2017,mother,stool,16S,19,0,term,38.86,female,USA,Houston,vaginal
+SRR3746698,ChuDM_2017,mother,stool,16S,19,42,term,38.86,female,USA,Houston,vaginal
+SRR3746699,ChuDM_2017,mother,stool,16S,32,42,term,39,female,USA,Houston,CS
+SRR3746700,ChuDM_2017,mother,stool,16S,29,0,term,37.57,female,USA,Houston,CS
+SRR3746701,ChuDM_2017,mother,stool,16S,29,42,term,37.57,female,USA,Houston,CS
+SRR3746702,ChuDM_2017,mother,stool,16S,35,42,term,38,female,USA,Houston,vaginal
+SRR3746704,ChuDM_2017,mother,stool,16S,21,42,preterm,36.86,female,USA,Houston,vaginal
+SRR3746705,ChuDM_2017,mother,stool,16S,31,0,term,40,female,USA,Houston,CS
+SRR3746706,ChuDM_2017,mother,stool,16S,27,0,term,39.71,female,USA,Houston,vaginal
+SRR3746707,ChuDM_2017,mother,stool,16S,31,0,term,39.43,female,USA,Houston,vaginal
+SRR3746708,ChuDM_2017,mother,stool,16S,25,0,term,38.57,female,USA,Houston,vaginal
+SRR3746709,ChuDM_2017,mother,stool,16S,33,0,term,39.14,female,USA,Houston,vaginal
+SRR3746710,ChuDM_2017,mother,stool,16S,39,0,term,41,female,USA,Houston,CS
+SRR3746711,ChuDM_2017,mother,stool,16S,22,0,term,37.14,female,USA,Houston,vaginal
+SRR3746712,ChuDM_2017,mother,stool,16S,28,0,term,39.86,female,USA,Houston,CS
+SRR3746713,ChuDM_2017,mother,stool,16S,33,0,term,38.71,female,USA,Houston,CS
+SRR3746716,ChuDM_2017,mother,stool,16S,39,0,preterm,36.43,female,USA,Houston,CS
+SRR3746717,ChuDM_2017,mother,stool,16S,38,0,preterm,34.14,female,USA,Houston,vaginal
+SRR3746718,ChuDM_2017,mother,stool,16S,33,0,term,37.29,female,USA,Houston,vaginal
+SRR3746719,ChuDM_2017,mother,stool,16S,30,0,term,38.14,female,USA,Houston,CS
+SRR3746720,ChuDM_2017,mother,stool,16S,24,0,term,39.57,female,USA,Houston,CS
+SRR3746721,ChuDM_2017,mother,stool,16S,43,0,term,37,female,USA,Houston,vaginal
+SRR3746722,ChuDM_2017,mother,stool,16S,23,0,term,41,female,USA,Houston,vaginal
+SRR3746723,ChuDM_2017,mother,stool,16S,35,0,term,39.14,female,USA,Houston,vaginal
+SRR3746724,ChuDM_2017,mother,stool,16S,33,0,term,40.43,female,USA,Houston,vaginal
+SRR3746725,ChuDM_2017,mother,stool,16S,22,0,term,40.29,female,USA,Houston,CS
+SRR3746727,ChuDM_2017,mother,stool,16S,24,0,term,39,female,USA,Houston,vaginal
+SRR3746728,ChuDM_2017,mother,stool,16S,27,0,term,39.86,female,USA,Houston,CS
+SRR3746729,ChuDM_2017,mother,stool,16S,37,0,term,38.86,female,USA,Houston,vaginal
+SRR3746730,ChuDM_2017,mother,stool,16S,34,0,term,39.14,female,USA,Houston,CS
+SRR3746731,ChuDM_2017,mother,stool,16S,37,0,term,28.71,female,USA,Houston,vaginal
+SRR3746732,ChuDM_2017,mother,stool,16S,29,0,term,40.14,female,USA,Houston,vaginal
+SRR3746733,ChuDM_2017,mother,stool,16S,29,0,term,40.86,female,USA,Houston,vaginal
+SRR3746734,ChuDM_2017,mother,stool,16S,25,0,term,39.14,female,USA,Houston,vaginal
+SRR13884967,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13884968,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13884969,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13884976,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885023,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885026,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885032,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885157,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885161,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885165,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885168,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885172,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885190,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885194,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885197,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885203,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885206,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885212,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885215,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885221,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885224,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885225,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885226,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885230,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885231,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885284,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885286,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885291,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885296,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885301,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885305,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885308,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885315,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885316,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885317,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885321,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885323,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885327,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885329,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885374,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885378,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885438,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885439,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885468,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885469,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885471,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885472,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885474,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885476,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885478,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885479,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885482,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885555,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885556,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885557,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885559,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885561,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885564,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885565,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885570,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885622,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885628,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885630,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885633,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885636,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885672,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885678,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885715,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885717,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885720,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885769,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885771,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885772,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885773,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885774,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13885797,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885799,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885805,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885811,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885812,Grant-BeurmannS_2022,mother,stool,16S,,42,unknown,,female,Nigeria,Benin City,unknown
+SRR13885816,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885819,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885821,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13885824,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886789,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13886790,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886791,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886792,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886793,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886794,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886796,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886797,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13886798,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886799,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886800,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886801,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886802,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886803,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886804,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13886845,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886846,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886848,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886849,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886850,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886851,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13886852,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886853,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886854,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886855,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13886857,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886858,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886859,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886908,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886909,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886910,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886911,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886913,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886930,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886931,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886936,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13886937,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887062,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887063,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887064,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887065,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887066,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887067,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887068,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887069,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887070,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887071,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887072,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887073,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887075,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887076,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887077,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887078,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887079,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887080,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887081,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887082,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887084,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887085,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887086,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887087,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887104,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887105,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887107,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887108,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887109,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887110,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887111,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887112,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887113,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887114,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887116,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887117,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887118,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887119,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887136,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887137,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887138,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887139,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887140,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887141,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887142,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887143,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887145,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887146,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887147,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887222,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887223,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887224,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887225,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887226,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887227,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887228,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887229,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887230,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887232,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887233,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887274,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887275,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887276,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887277,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887278,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887279,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887280,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887282,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887283,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887284,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887285,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887286,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887287,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887288,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887289,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887317,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887319,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887320,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887321,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887322,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887323,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887324,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887325,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887326,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887327,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887357,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887358,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887359,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887360,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887361,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887362,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887363,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887364,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887365,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887475,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887480,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887482,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887483,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887484,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887485,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887486,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887488,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887489,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887490,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887492,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887493,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887494,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887495,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887496,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887497,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887498,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887499,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887500,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887502,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887503,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887504,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887505,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887506,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887507,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887508,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887509,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887510,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887512,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887513,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887514,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887515,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887516,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13887517,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887518,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13887519,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895418,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895422,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895423,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895425,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895426,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895427,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895428,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895429,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895430,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895431,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895448,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895449,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895450,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895451,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895452,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895454,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895455,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895456,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895457,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895458,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895459,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895460,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895461,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895463,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895464,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895466,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895467,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895468,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895469,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895470,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895471,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895488,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895489,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895491,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895492,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895493,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895494,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895495,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895496,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895497,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895498,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895499,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895500,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895501,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895502,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895506,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895507,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895508,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895511,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895512,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895513,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895514,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895515,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895516,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895517,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895518,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895520,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895521,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895524,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895525,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895526,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895527,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895545,Grant-BeurmannS_2022,mother,stool,16S,,270,unknown,,female,Nigeria,Benin City,unknown
+SRR13895562,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13895563,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13895567,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13895690,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13895697,Grant-BeurmannS_2022,mother,stool,16S,,0,unknown,,female,Nigeria,Benin City,unknown
+SRR13895707,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895708,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895712,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895713,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895714,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895970,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895971,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895994,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895995,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895996,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895997,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895998,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13895999,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896000,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896001,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896002,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896004,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896005,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896081,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896082,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+SRR13896083,Grant-BeurmannS_2022,mother,stool,16S,,,unknown,,female,Nigeria,Benin City,unknown
+ERR3511611,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511617,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511627,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511635,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511639,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511643,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511593,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511595,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511596,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511597,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511598,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511599,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511613,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511633,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511600,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511612,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511590,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511592,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511601,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511614,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511618,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511623,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511625,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511632,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511636,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511638,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511640,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511641,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511644,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511587,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511588,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511602,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511605,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511621,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511629,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511642,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511586,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511603,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511606,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511609,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511624,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511626,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511634,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511604,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511607,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511608,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511610,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511616,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511620,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511628,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511630,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511631,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511637,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511645,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511647,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511648,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511589,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511591,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511594,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511615,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511619,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511622,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+ERR3511646,KhineWWT_2020,mother,stool,16S,,,term,,female,Indonesia,Yogyakarta,vaginal
+SRR8142138,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141599,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8142142,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141598,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8142139,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8142140,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8142137,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141574,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141571,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141573,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141697,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141696,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141572,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141569,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141570,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141944,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141940,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141936,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141945,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141580,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141937,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141938,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141935,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141711,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141705,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141709,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141712,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141706,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141710,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141803,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141899,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141802,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141804,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141805,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141898,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141897,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141801,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141782,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141784,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141558,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141781,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141783,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141778,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141555,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141556,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8142000,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142001,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141999,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142004,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141869,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141879,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142088,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141654,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141880,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141868,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141963,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141971,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141967,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141972,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142206,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142207,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141966,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141965,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141964,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141789,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141791,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141886,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141790,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141792,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141785,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141885,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141890,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141889,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8142237,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142235,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8142241,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142236,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142234,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142013,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8142240,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8142239,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8142238,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141920,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141847,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141919,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141925,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141926,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141846,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141921,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141922,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141756,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142304,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141591,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142303,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142301,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142302,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141870,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141867,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141757,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8142077,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8142080,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142078,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142196,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141859,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8142079,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141663,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142165,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141799,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142166,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142167,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141716,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141726,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141725,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8142062,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142064,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141633,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142063,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142065,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142058,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141632,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141603,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141991,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141604,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141606,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8141605,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141992,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141985,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141986,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141939,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8141915,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141908,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8141916,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142131,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141950,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141946,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141947,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8142181,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142179,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8142174,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142178,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142184,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142185,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8142175,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8142180,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8142182,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142016,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8142186,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8141702,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142075,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142073,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8142189,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8142188,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8142183,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+SRR8141894,WilliamsJE_2019,mother,stool,16S,,2,unknown,,female,USA,unknown,unknown
+SRR8142045,WilliamsJE_2019,mother,stool,16S,,5,unknown,,female,USA,unknown,unknown
+SRR8141612,WilliamsJE_2019,mother,stool,16S,,10,unknown,,female,USA,unknown,unknown
+SRR8142044,WilliamsJE_2019,mother,stool,16S,,30,unknown,,female,USA,unknown,unknown
+SRR8142116,WilliamsJE_2019,mother,stool,16S,,60,unknown,,female,USA,unknown,unknown
+SRR8142043,WilliamsJE_2019,mother,stool,16S,,90,unknown,,female,USA,unknown,unknown
+SRR8141615,WilliamsJE_2019,mother,stool,16S,,120,unknown,,female,USA,unknown,unknown
+SRR8141614,WilliamsJE_2019,mother,stool,16S,,150,unknown,,female,USA,unknown,unknown
+SRR8141896,WilliamsJE_2019,mother,stool,16S,,180,unknown,,female,USA,unknown,unknown
+ERR3487448,MaqsoodR_2019,mother,stool,16S,33,-6,unknown,,female,USA,Saint Louis,unknown
+ERR3487495,MaqsoodR_2019,mother,stool,16S,37,5,unknown,,female,USA,Saint Louis,unknown
+ERR3487498,MaqsoodR_2019,mother,stool,16S,31,-5,unknown,,female,USA,Saint Louis,unknown
+ERR3487502,MaqsoodR_2019,mother,stool,16S,29,7,unknown,,female,USA,Saint Louis,unknown
+ERR3487479,MaqsoodR_2019,mother,stool,16S,45,-4,unknown,,female,USA,Saint Louis,unknown
+ERR3487453,MaqsoodR_2019,mother,stool,16S,40,9,unknown,,female,USA,Saint Louis,unknown
+ERR3487505,MaqsoodR_2019,mother,stool,16S,32,51,unknown,,female,USA,Saint Louis,unknown
+ERR3487512,MaqsoodR_2019,mother,stool,16S,36,-11,unknown,,female,USA,Saint Louis,unknown
+ERR3487482,MaqsoodR_2019,mother,stool,16S,35,0,unknown,,female,USA,Saint Louis,unknown
+ERR3487456,MaqsoodR_2019,mother,stool,16S,27,20,unknown,,female,USA,Saint Louis,unknown
+ERR3487438,MaqsoodR_2019,mother,stool,16S,30,2,unknown,,female,USA,Saint Louis,unknown
+ERR3487485,MaqsoodR_2019,mother,stool,16S,28,15,unknown,,female,USA,Saint Louis,unknown
+ERR3487488,MaqsoodR_2019,mother,stool,16S,36,70,unknown,,female,USA,Saint Louis,unknown
+ERR3487460,MaqsoodR_2019,mother,stool,16S,32,14,unknown,,female,USA,Saint Louis,unknown
+ERR3487508,MaqsoodR_2019,mother,stool,16S,26,3,unknown,,female,USA,Saint Louis,unknown
+ERR3487441,MaqsoodR_2019,mother,stool,16S,27,3,unknown,,female,USA,Saint Louis,unknown
+ERR3487492,MaqsoodR_2019,mother,stool,16S,29,3,unknown,,female,USA,Saint Louis,unknown
+ERR3487511,MaqsoodR_2019,mother,stool,16S,29,4,unknown,,female,USA,Saint Louis,unknown
+ERR3487444,MaqsoodR_2019,mother,stool,16S,28,2,unknown,,female,USA,Saint Louis,unknown
+ERR3487447,MaqsoodR_2019,mother,stool,16S,26,34,unknown,,female,USA,Saint Louis,unknown
+ERR3487515,MaqsoodR_2019,mother,stool,16S,38,38,unknown,,female,USA,Saint Louis,unknown
+ERR3487463,MaqsoodR_2019,mother,stool,16S,31,28,unknown,,female,USA,Saint Louis,unknown
+ERR3487466,MaqsoodR_2019,mother,stool,16S,26,4,unknown,,female,USA,Saint Louis,unknown
+ERR3487470,MaqsoodR_2019,mother,stool,16S,24,-7,unknown,,female,USA,Saint Louis,unknown
+SRR6676286,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,vaginal
+SRR6676246,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,vaginal
+SRR6676271,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,vaginal
+SRR6676288,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676256,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676274,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676277,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676258,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,vaginal
+SRR6676249,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676272,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676280,RaviA_2018,mother,stool,16S,,4,term,,female,India,unknown,CS
+SRR6676265,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676251,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676267,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676266,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,vaginal
+SRR6676279,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR6676260,RaviA_2018,mother,stool,16S,,,term,,female,India,unknown,CS
+SRR1917762,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+SRR1917769,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+SRR1917775,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+SRR1917788,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+SRR1917795,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917817,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917824,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917837,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917844,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917851,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917865,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917872,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+SRR1917881,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917887,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,CS
+SRR1917901,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+SRR1917914,BrumbaughDE_2016,mother,rectum,16S,,0,term,39,female,USA,Aurora,vaginal
+ERR525759,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,vaginal
+ERR526075,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR526087,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525699,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525753,BackhedF_2015,mother,stool,WGS,,6,term,,female,Sweden,unknown,vaginal
+ERR525815,BackhedF_2015,mother,stool,WGS,,8,term,,female,Sweden,unknown,CS
+ERR525895,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525903,BackhedF_2015,mother,stool,WGS,,7,term,,female,Sweden,unknown,vaginal
+ERR525911,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525931,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525955,BackhedF_2015,mother,stool,WGS,,5,term,,female,Sweden,unknown,vaginal
+ERR526067,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR526073,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,vaginal
+ERR526079,BackhedF_2015,mother,stool,WGS,,6,term,,female,Sweden,unknown,vaginal
+ERR526083,BackhedF_2015,mother,stool,WGS,,5,term,,female,Sweden,unknown,vaginal
+ERR525692,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,CS
+ERR525697,BackhedF_2015,mother,stool,WGS,,5,term,,female,Sweden,unknown,vaginal
+ERR525706,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525712,BackhedF_2015,mother,stool,WGS,,1,term,,female,Sweden,unknown,vaginal
+ERR525716,BackhedF_2015,mother,stool,WGS,,11,term,,female,Sweden,unknown,vaginal
+ERR525720,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525725,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525729,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525733,BackhedF_2015,mother,stool,WGS,,1,term,,female,Sweden,unknown,vaginal
+ERR525737,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,vaginal
+ERR525741,BackhedF_2015,mother,stool,WGS,,6,term,,female,Sweden,unknown,vaginal
+ERR525746,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR525751,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525757,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525763,BackhedF_2015,mother,stool,WGS,,8,term,,female,Sweden,unknown,vaginal
+ERR525767,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525771,BackhedF_2015,mother,stool,WGS,,8,term,,female,Sweden,unknown,vaginal
+ERR525775,BackhedF_2015,mother,stool,WGS,,,term,,female,Sweden,unknown,vaginal
+ERR525779,BackhedF_2015,mother,stool,WGS,,6,term,,female,Sweden,unknown,vaginal
+ERR525783,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525787,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525791,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525795,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525799,BackhedF_2015,mother,stool,WGS,,1,term,,female,Sweden,unknown,vaginal
+ERR525804,BackhedF_2015,mother,stool,WGS,,7,term,,female,Sweden,unknown,vaginal
+ERR525809,BackhedF_2015,mother,stool,WGS,,12,term,,female,Sweden,unknown,vaginal
+ERR525813,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR525819,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525823,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525827,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525831,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,vaginal
+ERR525835,BackhedF_2015,mother,stool,WGS,,7,term,,female,Sweden,unknown,vaginal
+ERR525839,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525847,BackhedF_2015,mother,stool,WGS,,12,term,,female,Sweden,unknown,vaginal
+ERR525851,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525855,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525859,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR525863,BackhedF_2015,mother,stool,WGS,,10,term,,female,Sweden,unknown,vaginal
+ERR525867,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525871,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525875,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525879,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,vaginal
+ERR525884,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525889,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR525893,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525901,BackhedF_2015,mother,stool,WGS,,10,term,,female,Sweden,unknown,vaginal
+ERR525915,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR525919,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,CS
+ERR525923,BackhedF_2015,mother,stool,WGS,,9,term,,female,Sweden,unknown,CS
+ERR525928,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525935,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525939,BackhedF_2015,mother,stool,WGS,,1,term,,female,Sweden,unknown,CS
+ERR525943,BackhedF_2015,mother,stool,WGS,,1,term,,female,Sweden,unknown,vaginal
+ERR525948,BackhedF_2015,mother,stool,WGS,,5,term,,female,Sweden,unknown,CS
+ERR525953,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR525959,BackhedF_2015,mother,stool,WGS,,20,term,,female,Sweden,unknown,CS
+ERR525963,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,CS
+ERR525967,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525971,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,CS
+ERR525975,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525983,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR525987,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR525991,BackhedF_2015,mother,stool,WGS,,6,term,,female,Sweden,unknown,vaginal
+ERR525995,BackhedF_2015,mother,stool,WGS,,8,term,,female,Sweden,unknown,CS
+ERR525999,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR526003,BackhedF_2015,mother,stool,WGS,,5,term,,female,Sweden,unknown,CS
+ERR526007,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR526011,BackhedF_2015,mother,stool,WGS,,11,term,,female,Sweden,unknown,vaginal
+ERR526015,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,vaginal
+ERR526019,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR526023,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,CS
+ERR526027,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR526031,BackhedF_2015,mother,stool,WGS,,8,term,,female,Sweden,unknown,CS
+ERR526035,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,CS
+ERR526039,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR526043,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR526047,BackhedF_2015,mother,stool,WGS,,2,term,,female,Sweden,unknown,vaginal
+ERR526051,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR526055,BackhedF_2015,mother,stool,WGS,,0,term,,female,Sweden,unknown,vaginal
+ERR526059,BackhedF_2015,mother,stool,WGS,,3,term,,female,Sweden,unknown,vaginal
+ERR526063,BackhedF_2015,mother,stool,WGS,,4,term,,female,Sweden,unknown,CS
+SRR4052043,AsnicarF_2017,mother,stool,WGS,,90,unknown,,female,Italy,Trento,vaginal
+SRR4052044,AsnicarF_2017,mother,stool,WGS,,90,unknown,,female,Italy,Trento,vaginal
+SRR4052023,AsnicarF_2017,mother,stool,WGS,,90,unknown,,female,Italy,Trento,vaginal
+SRR4052024,AsnicarF_2017,mother,stool,WGS,,90,unknown,,female,Italy,Trento,vaginal
+SRR4052025,AsnicarF_2017,mother,stool,WGS,,300,unknown,,female,Italy,Trento,vaginal
+SRR4052026,AsnicarF_2017,mother,stool,WGS,,90,unknown,,female,Italy,Trento,vaginal
+SRR4052027,AsnicarF_2017,mother,stool,WGS,,300,unknown,,female,Italy,Trento,vaginal
+SRR4052028,AsnicarF_2017,mother,stool,WGS,,480,unknown,,female,Italy,Trento,vaginal
+SRR13867078,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,UK,Southampton,unknown
+SRR13867080,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,UK,Southampton,unknown
+SRR13867082,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,UK,Southampton,unknown
+SRR13867084,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,UK,Southampton,unknown
+SRR13867086,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,New Zealand,Auckland,unknown
+SRR13867089,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,New Zealand,Auckland,unknown
+SRR13867091,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,New Zealand,Auckland,unknown
+SRR13867093,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,New Zealand,Auckland,unknown
+SRR13867095,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,New Zealand,Auckland,unknown
+SRR13867101,VatanenT_2022,mother,stool,WGS,,180,unknown,,female,New Zealand,Auckland,unknown
+SRR8942350,ChuDM_2017,mother,stool,WGS,25,0,term,37.43,female,USA,Houston,vaginal
+SRR8942352,ChuDM_2017,mother,stool,WGS,36,42,term,39.43,female,USA,Houston,CS
+SRR5512720,ChuDM_2017,mother,stool,WGS,33,42,term,39.14,female,USA,Houston,vaginal
+SRR8942362,ChuDM_2017,mother,stool,WGS,26,0,term,37,female,USA,Houston,vaginal
+SRR8942363,ChuDM_2017,mother,stool,WGS,26,42,term,37,female,USA,Houston,vaginal
+SRR8942366,ChuDM_2017,mother,stool,WGS,24,0,term,37.29,female,USA,Houston,vaginal
+SRR5512726,ChuDM_2017,mother,stool,WGS,32,42,term,39,female,USA,Houston,vaginal
+SRR8942374,ChuDM_2017,mother,stool,WGS,30,0,term,39.14,female,USA,Houston,vaginal
+SRR8942375,ChuDM_2017,mother,stool,WGS,30,42,term,39.14,female,USA,Houston,vaginal
+SRR8942378,ChuDM_2017,mother,stool,WGS,27,0,preterm,32.86,female,USA,Houston,vaginal
+SRR8942379,ChuDM_2017,mother,stool,WGS,27,42,preterm,32.86,female,USA,Houston,vaginal
+SRR8942381,ChuDM_2017,mother,stool,WGS,32,0,term,37.43,female,USA,Houston,vaginal
+SRR5512727,ChuDM_2017,mother,stool,WGS,28,42,term,39.86,female,USA,Houston,vaginal
+SRR5512728,ChuDM_2017,mother,stool,WGS,23,0,term,39,female,USA,Houston,CS
+SRR5512721,ChuDM_2017,mother,stool,WGS,31,42,term,39,female,USA,Houston,CS
+SRR5512722,ChuDM_2017,mother,stool,WGS,33,0,term,40.71,female,USA,Houston,vaginal
+SRR8942409,ChuDM_2017,mother,stool,WGS,19,42,preterm,36.57,female,USA,Houston,vaginal
+SRR8942412,ChuDM_2017,mother,stool,WGS,23,0,term,37.14,female,USA,Houston,vaginal
+SRR8942419,ChuDM_2017,mother,stool,WGS,29,0,term,37.29,female,USA,Houston,vaginal
+SRR8942420,ChuDM_2017,mother,stool,WGS,29,42,term,37.29,female,USA,Houston,vaginal
+SRR8942425,ChuDM_2017,mother,stool,WGS,25,0,term,39.29,female,USA,Houston,vaginal
+SRR8942426,ChuDM_2017,mother,stool,WGS,25,42,term,39.29,female,USA,Houston,vaginal
+SRR8942432,ChuDM_2017,mother,stool,WGS,29,0,term,37.57,female,USA,Houston,CS
+ERR3404663,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404664,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404666,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404667,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404669,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404662,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404661,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404665,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404733,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404668,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404736,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404738,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404741,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404710,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404713,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404869,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404855,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404907,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404894,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404952,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404961,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404962,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405117,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404983,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404982,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405010,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405946,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405061,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405141,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405244,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405261,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405263,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405967,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405363,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405738,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405973,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405461,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405977,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405471,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405478,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405982,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405719,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405692,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405694,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405727,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404762,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404766,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404790,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404797,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404822,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404842,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404881,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404919,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404926,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404954,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404955,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405123,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405042,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405002,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405014,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405016,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405015,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405017,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405201,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405060,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405203,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405077,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405078,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405093,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405094,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405214,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405174,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405485,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405145,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405296,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405299,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405958,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405380,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405733,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405734,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405737,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405495,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405739,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405499,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405981,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405743,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405744,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405699,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405634,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405680,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405983,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405987,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404718,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404719,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3404720,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404721,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404723,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404725,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3404732,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405012,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405011,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405124,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405009,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405018,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405030,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405062,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405063,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405161,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405092,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405225,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405163,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405519,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405177,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405162,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405950,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405193,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405313,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405316,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405318,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405618,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405322,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405529,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405324,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405403,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405407,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405411,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405415,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405533,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405964,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405730,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405729,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405428,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405432,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405436,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405440,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405972,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405974,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405537,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405444,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405541,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405545,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405552,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405556,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405978,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405979,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405976,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405560,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405677,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405975,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405625,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405740,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405741,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405742,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405674,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405676,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405678,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405675,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405679,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405702,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405681,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405682,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405683,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405684,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405686,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405685,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405689,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405688,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405687,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405720,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405721,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405690,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405695,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+ERR3405693,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405691,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,CS
+ERR3405697,ShaoY_2019,mother,stool,WGS,,0,term,,female,UK,unknown,vaginal
+SRR7280946,YassourM_2018,mother,stool,WGS,,-85,term,39.1,female,Finland,unknown,vaginal
+SRR7280884,YassourM_2018,mother,stool,WGS,,0,term,39.1,female,Finland,unknown,vaginal
+SRR7280885,YassourM_2018,mother,stool,WGS,,90,term,39.1,female,Finland,unknown,vaginal
+SRR7281042,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7281047,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7281040,YassourM_2018,mother,stool,WGS,,-84,term,39,female,Finland,unknown,vaginal
+SRR7281041,YassourM_2018,mother,stool,WGS,,0,term,39,female,Finland,unknown,vaginal
+SRR7281035,YassourM_2018,mother,stool,WGS,,90,term,39,female,Finland,unknown,vaginal
+SRR7280793,YassourM_2018,mother,stool,WGS,,-101,term,41.4,female,Finland,unknown,vaginal
+SRR7280794,YassourM_2018,mother,stool,WGS,,0,term,41.4,female,Finland,unknown,vaginal
+SRR7280799,YassourM_2018,mother,stool,WGS,,-91,term,40,female,Finland,unknown,vaginal
+SRR7280792,YassourM_2018,mother,stool,WGS,,0,term,40,female,Finland,unknown,vaginal
+SRR7280791,YassourM_2018,mother,stool,WGS,,90,term,40,female,Finland,unknown,vaginal
+SRR7280849,YassourM_2018,mother,stool,WGS,,-101,term,41.4,female,Finland,unknown,CS
+SRR7280846,YassourM_2018,mother,stool,WGS,,0,term,41.4,female,Finland,unknown,CS
+SRR7280847,YassourM_2018,mother,stool,WGS,,90,term,41.4,female,Finland,unknown,CS
+SRR7280809,YassourM_2018,mother,stool,WGS,,-92,term,40.1,female,Finland,unknown,vaginal
+SRR7280808,YassourM_2018,mother,stool,WGS,,0,term,40.1,female,Finland,unknown,vaginal
+SRR7280807,YassourM_2018,mother,stool,WGS,,90,term,40.1,female,Finland,unknown,vaginal
+SRR7280947,YassourM_2018,mother,stool,WGS,,-95,term,40.6,female,Finland,unknown,vaginal
+SRR7280854,YassourM_2018,mother,stool,WGS,,0,term,40.6,female,Finland,unknown,vaginal
+SRR7280853,YassourM_2018,mother,stool,WGS,,90,term,40.6,female,Finland,unknown,vaginal
+SRR7280850,YassourM_2018,mother,stool,WGS,,-103,term,41.7,female,Finland,unknown,vaginal
+SRR7280851,YassourM_2018,mother,stool,WGS,,0,term,41.7,female,Finland,unknown,vaginal
+SRR7280891,YassourM_2018,mother,stool,WGS,,90,term,41.7,female,Finland,unknown,vaginal
+SRR7280892,YassourM_2018,mother,stool,WGS,,-93,term,40.3,female,Finland,unknown,vaginal
+SRR7280893,YassourM_2018,mother,stool,WGS,,0,term,40.3,female,Finland,unknown,vaginal
+SRR7280889,YassourM_2018,mother,stool,WGS,,-64,term,36.1,female,Finland,unknown,vaginal
+SRR7280886,YassourM_2018,mother,stool,WGS,,0,term,36.1,female,Finland,unknown,vaginal
+SRR7280894,YassourM_2018,mother,stool,WGS,,-106,term,42.1,female,Finland,unknown,vaginal
+SRR7280895,YassourM_2018,mother,stool,WGS,,0,term,42.1,female,Finland,unknown,vaginal
+SRR7280922,YassourM_2018,mother,stool,WGS,,-87,term,39.4,female,Finland,unknown,CS
+SRR7280925,YassourM_2018,mother,stool,WGS,,0,term,39.4,female,Finland,unknown,CS
+SRR7280921,YassourM_2018,mother,stool,WGS,,-108,term,42.4,female,Finland,unknown,CS
+SRR7280920,YassourM_2018,mother,stool,WGS,,0,term,42.4,female,Finland,unknown,CS
+SRR7280926,YassourM_2018,mother,stool,WGS,,-91,term,40,female,Finland,unknown,vaginal
+SRR7280919,YassourM_2018,mother,stool,WGS,,0,term,40,female,Finland,unknown,vaginal
+SRR7281001,YassourM_2018,mother,stool,WGS,,-77,term,38,female,Finland,unknown,vaginal
+SRR7281000,YassourM_2018,mother,stool,WGS,,0,term,38,female,Finland,unknown,vaginal
+SRR7280879,YassourM_2018,mother,stool,WGS,,90,term,38,female,Finland,unknown,vaginal
+SRR7280929,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7281012,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7280949,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7280951,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7280928,YassourM_2018,mother,stool,WGS,,90,term,40.7,female,Finland,unknown,vaginal
+SRR7280835,YassourM_2018,mother,stool,WGS,,-98,term,41,female,Finland,unknown,vaginal
+SRR7281033,YassourM_2018,mother,stool,WGS,,0,term,41,female,Finland,unknown,vaginal
+SRR7280837,YassourM_2018,mother,stool,WGS,,-77,term,38,female,Finland,unknown,vaginal
+SRR7280836,YassourM_2018,mother,stool,WGS,,0,term,38,female,Finland,unknown,vaginal
+SRR7280830,YassourM_2018,mother,stool,WGS,,90,term,38,female,Finland,unknown,vaginal
+SRR7281069,YassourM_2018,mother,stool,WGS,,-86,term,39.3,female,Finland,unknown,vaginal
+SRR7281070,YassourM_2018,mother,stool,WGS,,0,term,39.3,female,Finland,unknown,vaginal
+SRR7281071,YassourM_2018,mother,stool,WGS,,90,term,39.3,female,Finland,unknown,vaginal
+SRR7281066,YassourM_2018,mother,stool,WGS,,-72,term,37.3,female,Finland,unknown,vaginal
+SRR7281072,YassourM_2018,mother,stool,WGS,,0,term,37.3,female,Finland,unknown,vaginal
+SRR7280900,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7280899,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7280902,YassourM_2018,mother,stool,WGS,,90,term,40.7,female,Finland,unknown,vaginal
+SRR7280878,YassourM_2018,mother,stool,WGS,,-88,term,39.6,female,Finland,unknown,vaginal
+SRR7280875,YassourM_2018,mother,stool,WGS,,0,term,39.6,female,Finland,unknown,vaginal
+SRR7280876,YassourM_2018,mother,stool,WGS,,90,term,39.6,female,Finland,unknown,vaginal
+SRR7280882,YassourM_2018,mother,stool,WGS,,-80,term,38.4,female,Finland,unknown,vaginal
+SRR7280961,YassourM_2018,mother,stool,WGS,,0,term,38.4,female,Finland,unknown,vaginal
+SRR7280960,YassourM_2018,mother,stool,WGS,,90,term,38.4,female,Finland,unknown,vaginal
+SRR7280954,YassourM_2018,mother,stool,WGS,,-106,term,42.1,female,Finland,unknown,vaginal
+SRR7280953,YassourM_2018,mother,stool,WGS,,0,term,42.1,female,Finland,unknown,vaginal
+SRR7280952,YassourM_2018,mother,stool,WGS,,90,term,42.1,female,Finland,unknown,vaginal
+SRR7280935,YassourM_2018,mother,stool,WGS,,-97,term,40.9,female,Finland,unknown,vaginal
+SRR7280936,YassourM_2018,mother,stool,WGS,,0,term,40.9,female,Finland,unknown,vaginal
+SRR7280937,YassourM_2018,mother,stool,WGS,,90,term,40.9,female,Finland,unknown,vaginal
+SRR7281015,YassourM_2018,mother,stool,WGS,,-93,term,40.3,female,Finland,unknown,vaginal
+SRR7281018,YassourM_2018,mother,stool,WGS,,0,term,40.3,female,Finland,unknown,vaginal
+SRR7281017,YassourM_2018,mother,stool,WGS,,90,term,40.3,female,Finland,unknown,vaginal
+SRR7280981,YassourM_2018,mother,stool,WGS,,-84,term,39,female,Finland,unknown,CS
+SRR7280978,YassourM_2018,mother,stool,WGS,,0,term,39,female,Finland,unknown,CS
+SRR7280979,YassourM_2018,mother,stool,WGS,,90,term,39,female,Finland,unknown,CS
+SRR7280977,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7280816,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7280815,YassourM_2018,mother,stool,WGS,,90,term,40.7,female,Finland,unknown,vaginal
+SRR7280817,YassourM_2018,mother,stool,WGS,,-95,term,40.6,female,Finland,unknown,vaginal
+SRR7280824,YassourM_2018,mother,stool,WGS,,0,term,40.6,female,Finland,unknown,vaginal
+SRR7280823,YassourM_2018,mother,stool,WGS,,90,term,40.6,female,Finland,unknown,vaginal
+SRR7281050,YassourM_2018,mother,stool,WGS,,-93,term,40.3,female,Finland,unknown,vaginal
+SRR7281051,YassourM_2018,mother,stool,WGS,,0,term,40.3,female,Finland,unknown,vaginal
+SRR7281052,YassourM_2018,mother,stool,WGS,,90,term,40.3,female,Finland,unknown,vaginal
+SRR7281024,YassourM_2018,mother,stool,WGS,,-90,term,39.9,female,Finland,unknown,vaginal
+SRR7281025,YassourM_2018,mother,stool,WGS,,0,term,39.9,female,Finland,unknown,vaginal
+SRR7281026,YassourM_2018,mother,stool,WGS,,90,term,39.9,female,Finland,unknown,vaginal
+SRR7281063,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7280880,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7280883,YassourM_2018,mother,stool,WGS,,90,term,40.7,female,Finland,unknown,vaginal
+SRR7280852,YassourM_2018,mother,stool,WGS,,-97,term,40.9,female,Finland,unknown,vaginal
+SRR7281065,YassourM_2018,mother,stool,WGS,,0,term,40.9,female,Finland,unknown,vaginal
+SRR7281068,YassourM_2018,mother,stool,WGS,,90,term,40.9,female,Finland,unknown,vaginal
+SRR7280986,YassourM_2018,mother,stool,WGS,,-84,term,39,female,Finland,unknown,CS
+SRR7280866,YassourM_2018,mother,stool,WGS,,0,term,39,female,Finland,unknown,CS
+SRR7280863,YassourM_2018,mother,stool,WGS,,90,term,39,female,Finland,unknown,CS
+SRR7280860,YassourM_2018,mother,stool,WGS,,0,term,42.4,female,Finland,unknown,vaginal
+SRR7280861,YassourM_2018,mother,stool,WGS,,90,term,42.4,female,Finland,unknown,vaginal
+SRR7280910,YassourM_2018,mother,stool,WGS,,-92,term,40.1,female,Finland,unknown,vaginal
+SRR7280909,YassourM_2018,mother,stool,WGS,,0,term,40.1,female,Finland,unknown,vaginal
+SRR7280908,YassourM_2018,mother,stool,WGS,,90,term,40.1,female,Finland,unknown,vaginal
+SRR7280944,YassourM_2018,mother,stool,WGS,,-96,term,40.7,female,Finland,unknown,vaginal
+SRR7280945,YassourM_2018,mother,stool,WGS,,0,term,40.7,female,Finland,unknown,vaginal
+SRR7280915,YassourM_2018,mother,stool,WGS,,90,term,40.7,female,Finland,unknown,vaginal
+SRR7280967,YassourM_2018,mother,stool,WGS,,-83,term,38.9,female,Finland,unknown,vaginal
+SRR7280966,YassourM_2018,mother,stool,WGS,,0,term,38.9,female,Finland,unknown,vaginal
+SRR7280969,YassourM_2018,mother,stool,WGS,,90,term,38.9,female,Finland,unknown,vaginal
+SRR7280990,YassourM_2018,mother,stool,WGS,,-93,term,40.3,female,Finland,unknown,CS
+SRR7280991,YassourM_2018,mother,stool,WGS,,0,term,40.3,female,Finland,unknown,CS
+SRR7280972,YassourM_2018,mother,stool,WGS,,90,term,40.3,female,Finland,unknown,CS
+SRR7280998,YassourM_2018,mother,stool,WGS,,-82,term,38.7,female,Finland,unknown,vaginal
+SRR7280999,YassourM_2018,mother,stool,WGS,,0,term,38.7,female,Finland,unknown,vaginal
+SRR7280988,YassourM_2018,mother,stool,WGS,,90,term,38.7,female,Finland,unknown,vaginal
+SRR7281009,YassourM_2018,mother,stool,WGS,,-67,term,36.6,female,Finland,unknown,vaginal
+SRR7281008,YassourM_2018,mother,stool,WGS,,0,term,36.6,female,Finland,unknown,vaginal
+SRR9095173,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095203,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095188,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095204,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095212,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095201,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095184,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095202,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095200,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095207,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095208,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095214,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095211,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095177,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095209,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095176,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095189,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095187,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095167,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR9095175,LiW_2021,mother,stool,WGS,,0,term,,female,Finland,Oulu,vaginal
+SRR17284419,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284418,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284274,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284220,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284341,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284330,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284319,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284172,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284161,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284150,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284417,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284406,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284395,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284315,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284304,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284293,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284383,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284372,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284361,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284273,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,vaginal
+SRR17284231,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284219,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284214,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284213,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284348,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284347,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284346,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284345,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284344,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284343,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284342,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284340,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284139,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284138,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284137,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284136,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284335,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284334,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284333,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284332,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284331,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284329,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284135,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284134,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284133,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284132,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284324,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284323,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284322,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284321,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284320,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284318,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284131,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284130,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284129,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284128,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284177,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284176,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284175,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284174,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284173,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284171,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284116,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284127,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284126,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284125,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284166,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284165,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284164,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284163,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284162,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284160,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284124,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284123,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284122,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284121,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284155,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284154,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284153,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284152,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284151,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS
+SRR17284149,XiaoL_2021,mother,stool,WGS,,30,term,,female,China,Wenzhou,CS

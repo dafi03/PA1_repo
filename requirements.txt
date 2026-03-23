@@ -1,0 +1,27 @@
+numpy
+scipy
+pandas
+openpyxl       # For excel support
+
+statsmodels
+scikit-learn
+scikit-optimize
+yellowbrick
+imblearn
+skimpy
+ydata_profiling
+
+matplotlib
+seaborn
+
+opencv-python
+pillow
+
+tqdm
+ipython
+ipykernel
+ipynbname
+jupyter
+black[jupyter]
+pylint
+gitpython
