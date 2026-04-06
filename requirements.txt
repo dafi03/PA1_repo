@@ -25,3 +25,5 @@ jupyter
 black[jupyter]
 pylint
 gitpython
+
+umap-learn
