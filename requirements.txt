@@ -27,3 +27,5 @@ pylint
 gitpython
 
 umap-learn
+geopandas
+folium
